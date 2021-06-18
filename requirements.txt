@@ -1,0 +1,7 @@
+Flask
+sys
+glob
+re
+json
+tensorflow
+gunicorn
